@@ -1,4 +1,9 @@
-snapNslide Parameters:
+snapNslide
+==========
+Small plugin allowing the user to select ranged/single slider selections. Exposes an API to allow easy interfacing with 3rd party code.
+
+Useful Stuff
+------------
 
 - Properties:
 	- snapIncrement : The pixel width of a single increment, between two minor nodes. ( Default value 5 )
