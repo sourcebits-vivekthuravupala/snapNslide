@@ -1,0 +1,13 @@
+/* CSS document */
+@charset 'utf-8';
+
+body {
+	background: #1F0A2A;
+}
+
+#snapNslide {
+	height: 50px;
+	width: 341px;
+	margin: 25% auto 0;
+	background: url(../Graphics/slideTrench.gif) 0 12px repeat-x;
+}
